@@ -1,6 +1,4 @@
 Alice
 Bob 
 Cindy
-
-Rose
-Ramon
+Eve
