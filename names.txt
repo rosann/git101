@@ -1,6 +1,6 @@
 Alice
-Bob 
-Cindy
-Eve
 Billy
-Rose 
+Bob
+Cindy
+Dave
+Eve 
