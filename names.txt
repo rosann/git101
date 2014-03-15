@@ -1,4 +1,3 @@
-Alice
 Billy
 Bob
 Cindy
